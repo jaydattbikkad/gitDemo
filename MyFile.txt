@@ -1,0 +1,106 @@
+------GitHub----------------------------
+User Name- jaydattbikkad
+email- jaydattabikkad93@gmail.com
+pass- Babyfish93@
+---------------------------------------------------------
+https://www.youtube.com/user/kudvenkat/playlists
+Automation Anywhere
+--------------------------------------------------
+https://automationanywhere.litmos.com/home/dashboard
+
+--------------------------------------------------
+Pega Robotics
+https://community.pega.com/knowledgebase/products/robotic-process-automation
+------pega robot manager--------------------------
+admin@jbb.com
+password:
+System@123
+--------------------------------------------------
+UI Path
+Jaydatt Bikkad
+UN: jaydattabikkad93@gmail.com
+Pass: Babyfish93@
+Product Id: qQejtYY1VfsLhxEaIvJk
+Updated Primary Email Id- jaydatt.bikkad@accenture.com
+-------UiPath Traininng---------
+https://myoffice.accenture.com/:f:/g/personal/kp_sridhar_accenture_com/EsdjnDSppTNEke0Wo4OE9t0BtVPvC6s4E42ozAu0wZaHbQ?e=ynEztG
+--------------------------------------------------
+Blue Prism
+email- jaydatt.bikkad@accenture.com
+username jaydatt.bikkad
+
+Sql Server Configuration = localhost\SQLExpress
+DB= BluePrism
+Connection name= Default connection
+BP Users- admin System@123
+	  Jaydatt System@123       ----------has all permitions
+	  jaydattbikkkad System@123----------only Developers
+-------------Training-------------------
+usernames admin
+	  jaydatttraining 
+password System@123
+-------------------------------------------------
+----------------------------------------
+Automation Anywhere
+https://www.automationanywhere.com/in/lp/rpa-editions-comparison
+email : jaydattabikkad22@gmail.com
+pass: Jaydatta93@
+
+UName: Gmail
+ 
+
+
+Control Room URL: https://6y675ph1.ce.automationanywhere.digital
+
+Username: jaydattabikkad93@gmail.com
+Password: l392dvqq1
+
+2 step verification password  for AA
+uid :jaydattabikkad93@gmail.com
+pass : cuchkhhcsedipocj
+
+Go to the settings for your Google Account in the application or device you are trying to set up. Replace your password with the 16-character password shown above.
+Just like your normal password, this app password grants complete access to your Google Account. You won't need to remember it, so don't write it down or share it with anyone.
+----------------------------------------
+SQL plus
+uid: System
+pass: System123
+
+wallet path: E:\app\OracleData\admin\System\wallet
+pass: Jaydatt93@
+---------------------
+Installation URL : https://www.youtube.com/watch?v=Fr4pPlZnbFI
+11g Express edition
+uid: SYS/SYSTEM
+pass: System123
+
+My Database
+
+Uid: MyDatabase --- DEMOBLD7 file uploading practics 
+Pass: System123
+
+Uid: MyDB
+pass: System123
+@"file path" to open any .sql file
+----------------------------
+to connect: connect SYSTEM/System123
+http://127.0.0.1:8080/apex/f?p=4950
+
+-------------------------------------------------------------
+English Learning Videos:
+
+https://youtu.be/aOr1JoGZt94?t=224
+------------------------------------------------------------
+Practics with chhote
+Database Name: RockLife
+Password: System123
+------------------------------------------------------------
+Udemy
+
+https://github.com/mosh-hamedani/
+----------------------------------------------------------
+SQL Server 2014
+SQLEXPRESS
+short cut open->Win+r->ssms->enter
+uname- sa
+Password- System@123
